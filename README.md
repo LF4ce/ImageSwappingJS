@@ -25,3 +25,6 @@ Agora para cada um desses elementos geramos HTML necessario para obter um div co
 O resultado final é um grid dinamico gerado a partir dos dados recebidos.
 
 ![grid.png](.media%2Fgrid.png)
+
+HTML final em execução no browser
+![html.png](.media%2Fhtml.png)
