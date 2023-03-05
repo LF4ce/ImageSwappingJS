@@ -11,13 +11,17 @@ HTML, CSS e JavaScript foram utilizados para a criaçao deste componente.
 
 ## Como funciona
 Utilizando JavaScript para manipular elementos DOM do HTML criamos elementos dinamicamente dentro de um ponto especifico do HTML.
+
 ![index.png](.media%2Findex.png)
 
 Assumimos que teremos uma lista de elementos com seus nomes e suas variacoes de cores.
+
 ![dados.png](.media%2Fdados.png)
 
 Agora para cada um desses elementos geramos HTML necessario para obter um div com a imagem e o seletor de cores.
+
 ![item.png](.media%2Fitem.png)
 
 O resultado final é um grid dinamico gerado a partir dos dados recebidos.
+
 ![grid.png](.media%2Fgrid.png)
